@@ -25,7 +25,7 @@ GPT-4V. There are generally three stages that can be observed in the solving pro
 inductive reasoning (green), and deductive reasoning (red). Here, the visual perception was incomplete, causing a
 mistake during deductive reasoning.
 
-<img src="/images/example.png" alt="" width="300" height="200">
+<img src="/images/example.png" alt="" width="600" height="500">
 
 ### Puzzle Components
 
