@@ -1,7 +1,7 @@
 <div style="text-align: center;">
     <a href="https://arxiv.org/abs/2403.13315" class="button" style="margin: 10px;">Paper</a>
-    <a href="https://github.com/declare-lab/puzzle-reasoning" class="button" style="margin: 10px;">Code</a>
-    <a href="https://github.com/declare-lab/puzzle-reasoning" class="button" style="margin: 10px;">Dataset</a>
+    <a href="https://github.com/declare-lab/LLM-PuzzleTest" class="button" style="margin: 10px;">Code</a>
+    <a href="https://github.com/declare-lab/LLM-PuzzleTest" class="button" style="margin: 10px;">Dataset</a>
 </div>
 
 ### About
