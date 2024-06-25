@@ -1,8 +1,4 @@
-<div style="text-align: center;">
-    <a href="https://arxiv.org/abs/2403.13315" class="button" style="margin: 10px;">Paper</a>
-    <a href="https://github.com/declare-lab/LLM-PuzzleTest" class="button" style="margin: 10px;">Code</a>
-    <a href="https://github.com/declare-lab/LLM-PuzzleTest" class="button" style="margin: 10px;">Dataset</a>
-</div>
+[Paper](https://arxiv.org/abs/2403.13315) | [Code](https://github.com/declare-lab/LLM-PuzzleTest/tree/master/PuzzleVQA) | [Dataset](https://github.com/declare-lab/LLM-PuzzleTest/tree/master/PuzzleVQA)
 
 ### About
 
@@ -25,7 +21,7 @@ GPT-4V. There are generally three stages that can be observed in the solving pro
 inductive reasoning (green), and deductive reasoning (red). Here, the visual perception was incomplete, causing a
 mistake during deductive reasoning.
 
-<img src="/images/example.png" alt="" width="600" height="1000">
+![](/images/example.png)
 
 ### Puzzle Components
 
