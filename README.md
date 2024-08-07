@@ -1,4 +1,4 @@
-[Paper](https://arxiv.org/abs/2403.13315) | [Code](https://github.com/declare-lab/LLM-PuzzleTest/tree/master/PuzzleVQA) | [Dataset](https://github.com/declare-lab/LLM-PuzzleTest/tree/master/PuzzleVQA)
+[Paper](https://arxiv.org/abs/2403.13315) | [Code](https://github.com/declare-lab/LLM-PuzzleTest/tree/master/PuzzleVQA) | [Dataset](https://huggingface.co/datasets/declare-lab/puzzlevqa)
 
 ### About
 
