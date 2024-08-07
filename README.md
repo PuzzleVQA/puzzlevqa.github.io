@@ -1,4 +1,4 @@
-[Paper](https://arxiv.org/abs/2403.13315) | [Code](https://github.com/declare-lab/LLM-PuzzleTest/tree/master/PuzzleVQA) | [Dataset](https://huggingface.co/datasets/declare-lab/puzzlevqa)
+[Blog](https://chiayewken.com/the-puzzling-failure-of-multimodal-ai-chatbots?showSharer=true) | [Paper](https://arxiv.org/abs/2403.13315) | [Code](https://github.com/declare-lab/LLM-PuzzleTest/tree/master/PuzzleVQA) | [Dataset](https://huggingface.co/datasets/declare-lab/puzzlevqa)
 
 ### About
 
